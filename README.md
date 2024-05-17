@@ -71,7 +71,7 @@ tensorflow
 keras
 You can install these dependencies using pip:
 
-bash
-Copier le code
-pip install matplotlib numpy pandas seaborn tensorflow keras
+
+"pip install matplotlib numpy pandas seaborn tensorflow keras"
+
 This documentation provides a comprehensive overview of the program's functionality, making it easier for others to understand its purpose and usage.
