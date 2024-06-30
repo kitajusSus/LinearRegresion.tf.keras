@@ -49,8 +49,7 @@ The trained DNN model is saved for future use.
 Execution
 To execute the program, run the script in a Python environment with the necessary libraries installed. The script performs all steps from data loading to model evaluation and visualization automatically.
 
-python
-Copier le code
+
 # Example command to run the script
 python regresja_liniowa.py
 Output
@@ -69,7 +68,7 @@ pandas
 seaborn
 tensorflow
 keras
-You can install these dependencies using pip:
+
 
 
 "pip install matplotlib numpy pandas seaborn tensorflow keras"
